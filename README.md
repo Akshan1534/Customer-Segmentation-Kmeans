@@ -49,7 +49,7 @@ requirements.txt
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/Rajneel-Chavan/customer-segmentation-kmeans.git  
+git clone https://github.com/Akshan1534/Customer-Segmentation-Kmeans/blob/main/smart_cart.ipynb
 cd customer-segmentation-kmeans  
 
 2. Install dependencies:
