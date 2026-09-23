@@ -41,7 +41,7 @@ smartcart_customers.csv
 requirements.txt
 
 How to Run
-Clone the repository: git clone https://github.com/Rajneel-Chavan/customer-segmentation-kmeans.git
+Clone the repository: git clone https://github.com/Akshan1534/Customer-Segmentation-Kmeans/blob/main/smart_cart.ipynb
 cd customer-segmentation-kmeans
 
 Install dependencies: pip install -r requirements.txt
